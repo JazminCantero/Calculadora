@@ -10,10 +10,21 @@ Una calculadora básica hecha en HTML, CSS y JavaScript.
 - risthina Contreras
 - Jessica Lezcao
 
-## Tareas realizadas
-- Agregado botón de borrar (Nueva funcionalidad).
-- Arreglo del diseño responsive (Corrección de error).
-- Mejorar la Interfaz..
+- ## ✅ Tareas realizadas
+- 🔧 `feature/sqrt`: Se agregó la función raíz cuadrada
+- 🐞 `bugfix/division`: Se corrigió la división por cero con control de error
+- 🎯 `refactor/main`: Se refactorizó el archivo `main.py` agregando un menú interactivo
+
+Cada tarea fue gestionada en Trello y trabajada en ramas diferentes con sus respectivos commits.
+
+## 🚀 Cómo instalar o ejecutar el proyecto
+
+### Requisitos:
+- Python 3.x instalado
+
+### Ejecutar:
+```bash
+python main.py
 
 ## Cómo ejecutar
 1. Clonar el repositorio:
