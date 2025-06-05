@@ -1,4 +1,4 @@
-from calculadora import sumar, restar, multiplicar, dividir
+from Calculado import sumar, restar, multiplicar, dividir
 
 print("Calculadora simple en Python")
 a = float(input("Ingrese el primer número: "))
