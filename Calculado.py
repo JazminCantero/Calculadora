@@ -6,8 +6,8 @@ def restar(a, b):
 
 def multiplicar(a, b):
     return a * b
-
 def dividir(a, b):
-    if b == 0:
-        return "Error: división por cero"
-    return a / b
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return "Error: no se puede dividir por cero"
