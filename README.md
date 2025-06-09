@@ -3,11 +3,11 @@ Calculardora Basica en Python
 # Proyecto: Calculadora Web
 
 ## Descripción
-Una calculadora básica hecha en HTML, CSS y JavaScript.
+Una calculadora básica hecha en Python
 
 ## Integrantes
 - Jazmin Cantero
-- risthina Contreras
+- Cristina Contreras
 - Jessica Lezcao
 
 - ## ✅ Tareas realizadas
@@ -20,7 +20,7 @@ Cada tarea fue gestionada en Trello y trabajada en ramas diferentes con sus resp
 ## 🚀 Cómo instalar o ejecutar el proyecto
 
 ### Requisitos:
-- Python 3.x instalado
+- Python 3.10 instalado
 
 ### Ejecutar:
 ```bash
